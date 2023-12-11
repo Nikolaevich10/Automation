@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+**.pyc
+*.pyo
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+*.log
+logs/
+*.pyc
+.idea/
+*.iml
+*.iws
+*.ipr
+venv/
